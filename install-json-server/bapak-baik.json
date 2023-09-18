@@ -1,0 +1,34 @@
+{
+  "nasi" : 3000,
+  "lauk" : [
+    {
+      "id" : 1,
+      "nama" : "Usus",
+      "harga" : 1000
+    },
+
+    {
+      "id" : 2,
+      "nama" : "Tahu",
+      "harga" : 500
+    },
+
+    {
+      "id" : 3,
+      "nama" : "Tempe",
+      "harga" : 1000
+    },
+
+    {
+      "id" : 4,
+      "nama" : "Jeroan",
+      "harga" : 2000
+    },
+
+    {
+      "id" : 5,
+      "nama" : "Ayam Goreng",
+      "harga" : 5000
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+    "jadwal": [
+        {
+            "hari": "Senin",
+            "matkul": [
+                {
+                    "nama": "Backend",
+                    "jam": "9.40 - 15.20",
+                    "ruangan": "Lantai 7, LPR6",
+                    "dosen": {
+                        "nama": "M. Hasyim Ratsanjani, S.Kom., M.Kom."
+                    },
+                    "PJMK": "Manusia ramah tamah"
+                },
+
+                {
+                    "nama": "Bahasa Indonesia",
+                    "jam": "15.30 - 17.10",
+                    "ruangan": "Lantai 7, LPR6",
+                    "dosen": {
+                        "nama": "Rizki putri Ramadhani, S.S., M.P.d."
+                    },
+                    "PJMK": "Alfaresto"
+                }
+            ]
+        },
+
+        {
+            "hari": "Selasa",
+            "matkul": [
+                {
+                    "nama": "Basis Data",
+                    "jam": "7.50 - 12.10",
+                    "ruangan": "Lantai 7, LPR6",
+                    "dosen": {
+                        "nama": "Dika Rizky Yunianto, S.Kom., M.Kom"
+                    },
+                    "PJMK": "Sesepuh"
+                }
+            ]
+        },
+
+        {
+            "hari": "Rabu",
+            "matkul": [
+                {
+                    "nama": "Pancasila",
+                    "jam": "7.50 - 8.40",
+                    "ruangan": "Lantai 8, RT10",
+                    "dosen": {
+                        "nama": "Widaningsih Condrowardhani, SH., MH."
+                    },
+                    "PJMK": "Itadori Gangster"
+                }
+            ]
+        },
+
+        {
+            "hari": "Kamis",
+            "matkul": [
+                {
+                    "nama": "Agama",
+                    "jam": "9.40 - 11.20",
+                    "ruangan": "Lantai 5, RT05",
+                    "dosen": {
+                        "nama": "Astrifidha Rahma Amalia, S.Pd., M.Pd."
+                    },
+                    "PJMK": "Upin"
+                },
+
+                {
+                    "nama": "UI/UX",
+                    "jam": "11.20 - 17.10",
+                    "ruangan": "Lantai7, LPR4",
+                    "dosen": {
+                        "nama": "Pramana Yoga Saputra, S.Kom., MMT."
+                    },
+                    "PJMK": "Upin"
+                }
+            ]
+        },
+
+        {
+            "hari": "Jum'at",
+            "matkul": [
+                {
+                    "nama": "Frontend",
+                    "jam": "7.50 - 12.10",
+                    "ruangan": "Lantai 7, LPR1",
+                    "dosen": {
+                        "nama": "Endah Septa Sintiya, S.pd., M.Kom."
+                    },
+                    "PJMK": "Manusia ramah tamah"
+                },
+
+                {
+                    "nama": "Kewarganegaraan",
+                    "jam": "13.40 - 16.20",
+                    "ruangan": "Lantai 5, RT07",
+                    "dosen": {
+                        "nama": "Shohib Muslim, Dr."
+                    },
+                    "PJMK": "Ipin"
+                }
+            ]
+        }
+    ],
+
+    "mahasiswa": [
+        {
+            "nama": "Affansyah Hanan Windharto",
+            "nim": ""
+        },
+
+        {
+            "nama": "Bagus Wicaksono",
+            "nim": ""
+        },
+
+        {
+            "nama": "Nafiul razak",
+            "nim": ""
+        },
+
+        {
+            "nama": "Odan Syaharta",
+            "nim": ""
+        },
+
+        {
+            "nama": "Okan Syahdana",
+            "nim": ""
+        },
+
+        {
+            "nama": "Silva Tria Alfares",
+            "nim": ""
+        }
+    ]
+}
