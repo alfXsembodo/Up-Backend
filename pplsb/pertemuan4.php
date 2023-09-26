@@ -44,56 +44,56 @@
 // $judulBerita = "Alfamart lebih murah dari Indomaret";
 // echo "Judul Baru: " . str_replace("lebih murah", "lebih mahal", $judulBerita);
 
-// ## coba 10 function
+// ## COBA 10 FUNCTION
 
 // 1. explode(separator, string, limit)
-$string = "A,l,f,a";
-var_dump(explode(",", $string));
+// $string = "A,l,f,a";
+// var_dump(explode(",", $string));
 
 // 2. implode(separator, array)
-$array = ['alfa', 'anak', 'baik!'];
-echo implode(" ", $array);
+// $array = ['alfa', 'anak', 'baik!'];
+// echo implode(" ", $array);
 
 // 3. htmlspecialchars(string)
-$string = "<b>makan bang</b>";
-echo $string, "<br>", htmlspecialchars($string);
+// $string = "<b>makan bang</b>";
+// echo $string, "<br>", htmlspecialchars($string);
 
-// 4. join(separator, array)
-$array = ["alfa", "windi", "winda"];
-echo join(" ", $array);
+// 4. join(separator, array) -> skip
+// $array = ["alfa", "windi", "winda"];
+// echo join(" ", $array);
 
 // 5. lcfirst(string)
-echo lcfirst("Makan Alfa");
+// echo lcfirst("Makan Alfa");
 
 // 6. md5()
-$string = "makan makan sampai siang";
-echo md5($string);
+// $string = "makan makan sampai siang";
+// echo md5($string);
 
-// 7. currency_format()
+// 7. currency_format() -> skip
 // $number = 1000000;
 // setlocale(LC_MONETARY, "id-ID");
 // echo money_format("Harga bajunya : %i", $number);
 
 // 8. number_format(number, decimals, decimalpoint, separator)
-$number = 500000;
-echo number_format($number, 0, ".", ".");
+// $number = 500000;
+// echo number_format($number, 0, ".", ".");
 
 // 9. substr_count(string, substring, start, length)
-$string = "Michelle pacarnya alfa. Alfa si anak PPLSB. alfa anak PPL paling keren";
-echo substr_count($string, "Alfa");
+// $string = "Michelle pacarnya alfa. Alfa si anak PPLSB. alfa anak PPL paling keren";
+// echo substr_count($string, "Alfa");
 
 // 10. substr_replace(string, replacement, start, length)
-$string = "Bidadari Teknologi Informasi ada banyak, saya bingung";
-echo substr_replace($string, "Bidadari Tersyantik", 0, 8);
+// $string = "Bidadari Teknologi Informasi ada banyak, saya bingung";
+// echo substr_replace($string, "Bidadari Tersyantik", 0, 8);
 
 // 11. trim(string, charlist)
-$string = "Senja makan kopi sambil minum burger";
-echo trim($string, "Smb");
+// $string = "Senja makan kopi sambil minum burger";
+// echo trim($string, "S");
 
 // 12. ucfirst(string)
-$string = "sudahi saja hubungan ini";
-echo ucfirst($string);
+// $string = "sudahi saja hubungan ini";
+// echo ucfirst($string);
 
-// 13. wordwrap(string,width,break,cut)
-$string = "Tetaplah berjuang untuk sebuah harapan";
-echo wordwrap($string, 15, "<br>\n");
+// 13. wordwrap(string, width, break,cut) -> skip
+// $string = "Tetaplah berjuang untuk sebuah harapan";
+// echo wordwrap($string, 15, "<br>\n");
